@@ -12,6 +12,6 @@ Originally created by Merlin.
 
 `machine_plate.svg` contains the original inkscape SVGs.
 
-Intended to not slip around too much if people knock accidently.
+Intended to not slip around too much if people knock them accidentally.
 
 [Click for further notes on manufacturing](./docs/machine_plate.md)
